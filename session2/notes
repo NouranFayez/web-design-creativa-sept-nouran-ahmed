@@ -1,0 +1,13 @@
+
+
+-- firstName ==> letters only
+-- phone ==> 010/011/012 , 11 number
+-- courses ==> datalist
+-- img ==> .png
+-- comment ==> 20 : 100 ==> letters
+-- date ==> required
+-- ID ==> numbers 
+
+-- search ==> fieldset , legend , datalist 
+          ==> input type="submit"
+          ==> input type="reset"
